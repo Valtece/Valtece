@@ -1,7 +1,7 @@
 Olá, Mundo! Sou o Valtece Ventena
 
 - 🔭 Atualmente trabalho como Auxiliar Administrativo
-- 🌱 Estou estudando HTML, CSS, JAVASCRIPT e futuramente REACTJS para conseguir uma oportunidade na área de desenvolvimento Front-End
+- 🌱 Estou estudando HTML, CSS, JAVASCRIPT, React Native e futuramente REACTJS para conseguir uma oportunidade na área de desenvolvimento Front-End ou Mobile
 - 📫 Contate-me pelo Email: filhovaltece@gmail.com
 
 <div align="center">
